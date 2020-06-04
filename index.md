@@ -7,9 +7,9 @@ Kuzy is a simple planner ans reminder for periodic tasks.
 
 Having trouble with Kuzy?
 
-Contact me using 
+Contact me using:
 
-Email: max.erekhinskiy@gmail.com
-Telegram: nightflash13
-Instagram: nightflash13
-Or Twitter: mxspb
+* Email: max.erekhinskiy@gmail.com
+* Telegram: nightflash13
+* Instagram: nightflash13
+* Or Twitter: mxspb
