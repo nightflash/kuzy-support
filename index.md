@@ -1,6 +1,6 @@
 ## Welcome Kuzy app website
 
-Kuzy is a simple planner ans reminder for periodic tasks.
+Kuzy is a simple planner and reminder for periodic tasks.
 
 
 ### Support or Contact
@@ -12,4 +12,4 @@ Contact me using:
 * Email: max.erekhinskiy@gmail.com
 * Telegram: nightflash13
 * Instagram: nightflash13
-* Or Twitter: mxspb
+* Twitter: mxspb
